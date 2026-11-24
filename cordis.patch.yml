@@ -1,0 +1,3 @@
+- insert:
+    - id: cmd-enter-send
+      name: 'dsh-cmd-enter-send'

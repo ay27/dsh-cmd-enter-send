@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Cmd+Enter 发送",
+    "description": "输入框改为 Cmd+Enter（Windows / Linux 上为 Ctrl+Enter）发送，单独按 Enter 换行。Shift+Enter 仍然是换行；命令菜单打开、输入法组合中、其他快捷键组合都不受影响。卸载后恢复默认的 Enter 发送。"
+  }
+}

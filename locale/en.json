@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Cmd+Enter to send",
+    "description": "Sends with Cmd+Enter (Ctrl+Enter on Windows and Linux) and inserts a newline with plain Enter in the composer. Shift+Enter keeps inserting a newline, and menus, IME composition, and shortcut handling stay untouched. Uninstall to get the default Enter-to-send back."
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="ces-title">
+  <title id="ces-title">Cmd+Enter to send</title>
+  <!-- A return arrow: Enter inserts the line break, Cmd+Enter sends. -->
+  <g fill="none" stroke="#6b7280" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 11.5H17A4.5 4.5 0 0 0 12.5 16V24.1" />
+    <path d="M8.6 20.2 12.5 24.1 16.4 20.2" />
+  </g>
+</svg>
