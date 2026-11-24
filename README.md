@@ -52,6 +52,13 @@ From the plugin market, or by pointing DSH at this repository:
 dsh plugin --profile web add github:ay27/dsh-cmd-enter-send
 ```
 
+Or install the prebuilt tarball attached to the latest release, which skips the
+build-from-source step:
+
+```sh
+dsh plugin --profile web add https://github.com/ay27/dsh-cmd-enter-send/releases/latest/download/dsh-cmd-enter-send.tgz
+```
+
 Restart DSH (or reload the window) after installing.
 
 ## Uninstall

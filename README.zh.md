@@ -44,6 +44,12 @@ Ctrl/Cmd+Enter 完全不动，仍然走 DSH 原本的发送路径。
 dsh plugin --profile web add github:ay27/dsh-cmd-enter-send
 ```
 
+也可以装最新 Release 上的预构建 tarball，省去从源码构建的步骤：
+
+```sh
+dsh plugin --profile web add https://github.com/ay27/dsh-cmd-enter-send/releases/latest/download/dsh-cmd-enter-send.tgz
+```
+
 装完后重启 DSH（或重新加载窗口）。
 
 ## 卸载
